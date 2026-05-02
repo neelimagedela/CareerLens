@@ -1,0 +1,94 @@
+/* 🌈 BACKGROUND */
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(135deg, #0f172a, #1e293b, #020617);
+  color: white;
+}
+
+/* CENTER WRAPPER */
+.login-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* GLASS CARD */
+.login-box {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(12px);
+  padding: 40px;
+  border-radius: 16px;
+  width: 360px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5);
+  text-align: left;
+}
+
+/* TITLE */
+.login-box h1 {
+  margin: 0;
+  font-size: 28px;
+  color: #38bdf8;
+  text-align: center;
+}
+
+/* TAGLINE */
+.tagline {
+  text-align: center;
+  font-size: 14px;
+  color: #94a3b8;
+  margin-bottom: 25px;
+}
+
+/* FORM GROUP */
+.form-group {
+  margin-bottom: 15px;
+}
+
+/* LABEL */
+label {
+  font-size: 13px;
+  color: #cbd5f5;
+  margin-bottom: 5px;
+  display: block;
+}
+
+/* INPUT FIELDS */
+input,
+select {
+  width: 100%;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  background: #f1f5f9;
+  color: #0f172a;
+  font-size: 14px;
+}
+
+/* BUTTON */
+button {
+  width: 100%;
+  padding: 12px;
+  margin-top: 15px;
+  background: linear-gradient(90deg, #3b82f6, #06b6d4);
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  transform: scale(1.03);
+  background: linear-gradient(90deg, #2563eb, #0891b2);
+}
+
+/* ERROR */
+.error {
+  color: #f87171;
+  font-size: 13px;
+  margin-top: 5px;
+}

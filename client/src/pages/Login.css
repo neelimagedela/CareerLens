@@ -1,0 +1,209 @@
+/* RESET */
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* FULL PAGE */
+.login-page {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+}
+
+/* LEFT SIDE */
+.left {
+  flex: 1;
+  background: linear-gradient(135deg, #dff2ff, #f7fbff);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+/* RIGHT SIDE */
+.right {
+  flex: 1;
+  height: 100vh;
+}
+
+.right img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* 🌟 GLASS CARD */
+.card {
+  width: 370px;
+  padding: 32px;
+  border-radius: 20px;
+
+  background: rgba(255, 255, 255, 0.35); /* 🔥 slightly stronger */
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+
+  border: 1px solid rgba(255, 255, 255, 0.5);
+
+  box-shadow:
+    0 10px 35px rgba(0, 0, 0, 0.15),
+    inset 0 0 10px rgba(255, 255, 255, 0.3);
+
+  transition: 0.3s ease;
+
+  color: #0f172a; /* 🔥 FIX: strong text visibility */
+}
+
+/* CARD HOVER */
+.card:hover {
+  transform: translateY(-6px);
+}
+
+/* TITLE */
+.card h1 {
+  color: #0b3a8a; /* 🔥 darker blue for clarity */
+  margin-bottom: 6px;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+/* SUBTITLE */
+.sub {
+  font-size: 14px;
+  color: #1f2937; /* 🔥 darker for readability */
+  margin-bottom: 18px;
+  font-weight: 500;
+}
+
+/* FEATURES */
+.features p {
+  font-size: 14px;
+  margin: 6px 0;
+  padding: 7px 10px;
+  border-radius: 8px;
+
+  background: rgba(37, 99, 235, 0.12); /* 🔥 stronger */
+  color: #0f172a; /* FIX visibility */
+  font-weight: 500;
+}
+
+/* INPUTS */
+.card input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 12px;
+
+  border-radius: 10px;
+  border: 1px solid #93c5fd;
+
+  font-size: 14px;
+
+  background: rgba(255, 255, 255, 0.85); /* 🔥 more solid */
+  color: #0f172a; /* FIX text visibility */
+}
+
+/* INPUT FOCUS */
+.card input:focus {
+  outline: none;
+  border: 2px solid #2563eb;
+  box-shadow: 0 0 6px rgba(37, 99, 235, 0.3);
+}
+
+/* BUTTON */
+.card button {
+  width: 100%;
+  padding: 12px;
+
+  border: none;
+  border-radius: 10px;
+
+  background: linear-gradient(90deg, #1d4ed8, #38bdf8);
+  color: white;
+
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* BUTTON HOVER */
+.card button:hover {
+  opacity: 0.9;
+}
+
+/* DARK MODE */
+body.dark {
+  background: #0f172a;
+}
+
+/* LEFT DARK */
+body.dark .left {
+  background: linear-gradient(135deg, #0b1220, #111c33);
+}
+
+/* CARD DARK */
+body.dark .card {
+  background: rgba(17, 24, 39, 0.85);
+  color: #f1f5f9;
+  border: 1px solid rgba(255,255,255,0.12);
+}
+
+/* TEXT DARK */
+body.dark .sub,
+body.dark .features p {
+  color: #e2e8f0;
+}
+
+/* FEATURES DARK */
+body.dark .features p {
+  background: rgba(59, 130, 246, 0.18);
+}
+
+/* INPUT DARK */
+body.dark .card input {
+  background: rgba(15, 23, 42, 0.8);
+  color: white;
+  border: 1px solid #475569;
+}
+
+/* BUTTON */
+body.dark .card button {
+  background: linear-gradient(90deg, #2563eb, #38bdf8);
+}
+
+/* THEME BUTTON */
+.theme-btn {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border: none;
+  cursor: pointer;
+
+  background: #ffffff;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+
+  font-size: 18px;
+  line-height: 1;
+
+  overflow: hidden;
+
+  transition: 0.3s ease;
+}
+
+.theme-btn:hover {
+  transform: scale(1.1);
+}
+
+body.dark .theme-btn {
+  background: #1e293b;
+  color: white;
+}

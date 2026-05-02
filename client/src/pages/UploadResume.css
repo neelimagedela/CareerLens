@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+
+/* BACKGROUND */
+.page {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-family: "Poppins", sans-serif;
+
+  background: linear-gradient(135deg, #eef2ff, #f5f3ff);
+}
+
+/* CONTAINER */
+.container {
+  width: 560px;
+  text-align: center;
+}
+
+/* 🔥 TITLE (GLITTER + BIGGER + STYLE) */
+.title {
+  font-size: 36px;
+  font-weight: 800;
+
+  background: linear-gradient(90deg, #111827, #6366f1, #9333ea, #111827);
+  background-size: 200% auto;
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  animation: shine 4s linear infinite;
+
+  margin-bottom: 12px;
+}
+
+/* GLITTER ANIMATION */
+@keyframes shine {
+  0% { background-position: 0% center; }
+  100% { background-position: 200% center; }
+}
+
+/* SUBTITLE (BIGGER + CLEAN) */
+.subtitle {
+  font-size: 15px;
+  color: #374151;
+  line-height: 1.8;
+  margin-bottom: 30px;
+}
+
+/* SECTION */
+.section {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+/* 🔥 LABEL (VISIBLE + GLITTER STYLE) */
+label {
+  font-size: 15px;
+  font-weight: 700;
+
+  background: linear-gradient(90deg, #1f2937, #6366f1);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* 🔥 INPUT BOX (HIGHLIGHTED) */
+input[type="file"] {
+  width: 100%;
+  padding: 13px;
+
+  border-radius: 12px;
+  border: 2px solid #c7d2fe;
+
+  background: rgba(255,255,255,0.95);
+
+  box-shadow:
+    0 4px 15px rgba(0,0,0,0.08),
+    0 0 10px rgba(99,102,241,0.2);
+}
+
+/* HINT */
+.hint {
+  font-size: 12px;
+  color: #6b7280;
+  margin-top: 6px;
+  display: block;
+}
+
+/* 🔥 DROPDOWN (HIGHLIGHTED + CLEAR) */
+.dropdown {
+  width: 100%;
+  padding: 13px;
+
+  border-radius: 12px;
+  border: 2px solid #c7d2fe;
+
+  font-size: 14px;
+  color: #111827;
+
+  background: rgba(255,255,255,0.95);
+
+  box-shadow:
+    0 4px 15px rgba(0,0,0,0.08),
+    0 0 10px rgba(99,102,241,0.2);
+
+  outline: none;
+}
+
+/* FOCUS */
+.dropdown:focus {
+  border-color: #6366f1;
+  box-shadow:
+    0 0 0 3px rgba(99,102,241,0.2),
+    0 0 12px rgba(99,102,241,0.4);
+}
+
+/* BUTTON */
+button {
+  width: 100%;
+  padding: 14px;
+
+  margin-top: 12px;
+
+  font-size: 16px;
+  font-weight: 700;
+
+  color: white;
+
+  border: none;
+  border-radius: 12px;
+
+  background: linear-gradient(135deg, #111827, #1f2937);
+
+  box-shadow:
+    0 6px 20px rgba(0,0,0,0.2),
+    0 0 12px rgba(99,102,241,0.3);
+
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+button:hover {
+  transform: translateY(-2px);
+}
