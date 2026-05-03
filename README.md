@@ -152,7 +152,7 @@ Assisted four elderly individuals with simple daily tasks and extended support w
 - These are just placeholder (sample) images 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/db84bee6-be62-4b3f-9c35-a5e83e466868"  alt="Community Service Photo 1" width="30%">
-<img src="src="https://github.com/user-attachments/assets/96db1bfb-1cce-4477-a0e1-8c7f635750cb"  alt="Community Service Photo 2" width="30%">
+<img src="https://github.com/user-attachments/assets/d3087b67-6013-4c92-ad67-4808b035024d" alt="Community Service Photo 2" width="30%">
 </div>
 
 
