@@ -93,7 +93,7 @@ This internship significantly strengthened my problem-solving skills, provided i
 
 </p>
 <p>
-  <a href="https://github.com/sure-trust/NEELIMA-GEDELA-g30-fsd/blob/ff505bd179fa5d2b646acff0e2704f175805818e/Course%20report/portfolio.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/neelimagedela/CareerLens/blob/ea92587764cd5cad4aabfa342f317f1f7cc97bb3/portfolio.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
