@@ -18,31 +18,31 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> Gedela Neelima </p>
+    <p><strong>Email ID:</strong> neelimagfsd@gmail.com </p>
+    <p><strong>College Name:</strong> Gayatri Vidya Parishad College of Engineering For Women </p>
+    <p><strong>Branch/Specialization :</strong>BTech,CSE(AI&ML) </p>
+    <p><strong>College ID:</strong> 323103282030 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> Full Stack Development(G30 FSD) </p>
+    <p><strong>Instructor Name:</strong> Akshara Mam </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> 6 Months </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> Akshara Mam </p>
+<p><strong>Trainer Email ID:</strong> akshararanjan26@gmail.com </p>
+<p><strong>Trainer Designation:</strong> Software Developer at Propel Technology </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,115 +63,104 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+During my 4-month Full Stack Development internship with SureProEd, under the guidance of **Akshara**(Software Developer at Propel Technologies), I gained valuable hands-on experience in both front-end and back-end web development. I developed and managed projects using HTML, CSS, JavaScript, React, and Angular, while enhancing my knowledge of Git and GitHub for version control and collaborative development.
+
+This internship significantly strengthened my problem-solving skills, provided insight into real-world software development workflows, and increased my confidence in designing and developing responsive, efficient, and user-friendly web applications.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong>  Careerlens AI Placement Readiness Analyzer </p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><em>(You can add more projects as needed)</em></p>
+<p><strong><a href="#project2">Project 2:</a></strong>  Personal Web Portfolio & Professional Showcase </p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: Careerlens AI Placement Readiness Analyzer </h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+  CareerLens AI Placement Readiness Analyzer is an intelligent platform that identifies students’ skill gaps and evaluates their readiness for placement opportunities. It provides personalized guidance and improvement strategies to help enhance technical competencies and overall employability.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/sure-trust/NEELIMA-GEDELA-g30-fsd/blob/92ee241d863aff7dadebd9ecf572579768f59c82/Course%20report/Neelima%20G30%20FSD.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
+<h3 id="project2">Project 2: Personal Web Portfolio & Professional Showcase </h3>
 <p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
+  Personal Web Portfolio & Professional Showcase is a professional platform designed to present an individual’s skills, projects, achievements, and experience in an organized manner. It helps create a strong digital presence and showcases professional capabilities to recruiters, clients, and career opportunities.
+
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/sure-trust/NEELIMA-GEDELA-g30-fsd/blob/ff505bd179fa5d2b646acff0e2704f175805818e/Course%20report/portfolio.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
 
 ## **References**
 
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
----
+1. CareerLens AI Placement Readiness Analyzer :
+   Angular
+   Django
+   PostgreSQL
+   Python
+   REST API
+
+2. Personal Web Portfolio & Professional Showcase :
+   Angular
+   HTML
+   CSS
+   JavaScript
+   Bootstrap
+
 
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+I have attended all the LST sessions conducted so far. The Life Skill Development training provided free of cost has been highly valuable for personal growth and overall well-being. I am pleased to share that these sessions have greatly enhanced my knowledge, strengthened my confidence, and prepared me to face life’s challenges with a positive and determined mindset.
+
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
+Serving society through my abilities has been a truly meaningful experience, and I remain motivated to continue contributing whenever possible. During my internship period, I actively engaged in various community service initiatives that enhanced my sense of responsibility, compassion, and leadership.
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+These activities helped me realize that even small efforts can create a positive impact. The happiness and gratitude expressed by those I supported gave me immense satisfaction and pride.
 
-### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
-  
- <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
+### Key Activities Undertaken
 
-  <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+🌱 **Tree Plantation Drive**
+Participated in planting trees near hospital premises and at Puttaparthi surroundings to promote environmental sustainability and provide shade in summer-prone areas.
 
-<!-- you can write impacts according to your experience in your words-->
+🤝 **Support for Elder Citizens**
+Assisted four elderly individuals with simple daily tasks and extended support wherever required, ensuring care and comfort.
 
-### **Impact / Contribution**
+### Impact & Learning Outcomes
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
+✔ Promoted greener, cleaner, and healthier surroundings.
+✔ Strengthened community relationships through meaningful support.
+✔ Improved communication, coordination, and teamwork skills.
+✔ Developed a stronger commitment toward social service and civic responsibility.
 
 ### **Photos**
 
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
 
-- These are just placeholder (sample) images <!-- remove this line -->
-
+- These are just placeholder (sample) images 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
+<img src="https://github.com/user-attachments/assets/02a82e47-3f46-403b-928e-42d9e0edaaa0" alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/user-attachments/assets/654d8d29-e4c4-4f59-bbb4-caacaf9017b7" alt="Community Service Photo 2" width="30%">
 </div>
 
----
+
 
 ## **Certificate**
 
-The internship certificate serves as an official acknowledgment of the successful completion of my training period. It will be issued by the organization upon fulfilling all required tasks and meeting the performance expectations of the program. The certificate validates the skills, experience, and contributions made during the internship.
+The internship certificate serves as an official recognition of the successful completion of my training period. It will be awarded by the organization upon the satisfactory completion of all assigned tasks and fulfillment of the program’s performance expectations. The certificate reflects the skills acquired, practical experience gained, and valuable contributions made during the internship tenure.
+
 
 <!-- add your certificate image url below (inside src='')-->
 
@@ -182,8 +171,10 @@ The internship certificate serves as an official acknowledgment of the successfu
 ---
 
 ## **Acknowledgments**
+My sincere thanks to **Akshara Mam** and **Radhakumari Mam** for considering me to complete this internship with true dedication and determination.
 
-<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+**Ms. Akshara**
+Software Developer at Propel Technology
 
-- [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
-
+**Prof. Radhakumari Challa**
+Executive Director and Founder - **SURE Trust**
