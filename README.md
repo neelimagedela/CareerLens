@@ -83,7 +83,7 @@ This internship significantly strengthened my problem-solving skills, provided i
   CareerLens AI Placement Readiness Analyzer is an intelligent platform that identifies students’ skill gaps and evaluates their readiness for placement opportunities. It provides personalized guidance and improvement strategies to help enhance technical competencies and overall employability.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/NEELIMA-GEDELA-g30-fsd/blob/92ee241d863aff7dadebd9ecf572579768f59c82/Course%20report/Neelima%20G30%20FSD.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/neelimagedela/CareerLens/blob/ea92587764cd5cad4aabfa342f317f1f7cc97bb3/Neelima%20G30%20FSD.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
